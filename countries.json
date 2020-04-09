@@ -1026,7 +1026,7 @@
             54, 
             -2
         ], 
-        "name": "United Kingdom", 
+        "name": "UK", 
         "country_code": "GB", 
         "capital": "London"
     }, 
@@ -2962,7 +2962,7 @@
             38, 
             -97
         ], 
-        "name": "United States", 
+        "name": "USA", 
         "country_code": "US", 
         "capital": "Washington D.C."
     }, 
